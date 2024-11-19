@@ -6,8 +6,11 @@ authors = ["Hugo Buddelmeijer <hugo@buddelmeijer.nl>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "=3.11.*"
+numpy = "=1.26.0"
 
+[tool.poetry.group.test.dependencies]
+scipy = "=1.10.1"
 
 [build-system]
 requires = ["poetry-core"]
