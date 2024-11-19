@@ -9,6 +9,9 @@ readme = "README.md"
 python = "=3.11.*"
 numpy = ">=1.26.0"
 
+[tool.poetry.group.test]
+optional = true
+
 [tool.poetry.group.test.dependencies]
 scipy = ">=1.10.1"
 
