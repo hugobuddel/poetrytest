@@ -82,4 +82,4 @@ test = ["asv", "gmpy2", "mpmath", "pooch", "pytest", "pytest-cov", "pytest-timeo
 [metadata]
 lock-version = "2.0"
 python-versions = "=3.11.*"
-content-hash = "740c7c8b506a87c87dec6a6a96aed9ab8748598aa84984088d6ba2ce40258457"
+content-hash = "cdec3305a6a95fcc69e878c2bae8d0392e6c1a201488d294e2c833b70ddb4c2e"
