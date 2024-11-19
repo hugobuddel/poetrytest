@@ -10,8 +10,8 @@ But they work together:
 
 ```
 $ poetry install --with=test
-  - Installing numpy (2.1.3)
-  - Installing scipy (1.14.1)
+  - Installing numpy (1.26.0)
+  - Installing scipy (1.10.1)
 
 $ python -c "import scipy"
 ```
